@@ -1,0 +1,4 @@
+0:organic,refill,biodegradable,reusable,sustainable,note,eco,affect,fragrance,sandalwood
+1:hand,vegan,local,trimmer,cordless,contour,norelcos,norelco,charging,head
+2:house,local,recommended,launched,posse,wear,blend,aging,design,diet
+3:organic,ingredient,product,bio,oil,natural,extract,animal,not,known
