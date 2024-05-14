@@ -1,4 +1,0 @@
-0:organic,refill,reduced,not,review,product,don,use,like,no
-1:hand,local,vegan,store,glove,ethical,http,www,palm,ref
-2:local,shave,razor,blade,shaver,norelco,shaving,teeth,electric,close
-3:skin,organic,smell,scent,dry,face,oil,feel,soap,cream
